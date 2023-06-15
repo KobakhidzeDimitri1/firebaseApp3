@@ -3,8 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".fragments.SecondFragment"
-    android:orientation="vertical"
+    tools:context="com.example.firebaseApp3.fragments.SecondFragment"
+android:orientation="vertical"
     android:gravity="center">
 
     <TextView
